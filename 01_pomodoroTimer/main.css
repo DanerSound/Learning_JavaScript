@@ -1,0 +1,8 @@
+.container > .alert {   
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    height: 390px;
+    top: 0px;
+    left: 0%;
+}
